@@ -1,0 +1,121 @@
+// SIDEBAR
+Beranda
+Tools SEO
+a	--> Article & Words Tools
+	--> Autority Tools
+	--> Adsense Tools
+b	--> Backlink Checker
+	--> Backlink Maker
+	--> Bot Tools
+	--> Broken Link Tools
+c	--> Counter & Visitor Tools
+	--> Cache Checker
+	--> Converter Tools
+d	--> Domain & Hosting Tools
+e	--> Encryption Tools
+f	--> 
+g	--> Grammar Checker
+	--> 
+h	--> 
+i	--> Image Tools
+j	--> 
+k	--> Keyword Tools
+l	--> Link Tools
+m	--> Meta Tag Tools
+o	--> 
+p	--> Plagiarism Checker
+	--> Ranking Tools
+	--> Page Size & Speed
+	--> Pinger
+q	--> 
+r	--> Robot & Htaccess Tools
+	--> Redirect Tools
+	--> Reverse Image Search
+s	--> 
+	--> SEO Audit & Analysis
+	--> Social Tools
+	--> 
+t	--> Text, Speech & Translate
+u	--> 
+v	--> Virus & Security Tools
+w	--> Website Link Count
+	--> Website Develop Tools
+	--> 
+	--> Google Dork
+	--> Software
+	--> Toolbar & Browser
+X	--> XML Tools
+	--> Youtube Tools
+Link to SEO
+	--> Social Media
+	--> Social Bookmarking
+	--> Article Directory
+	--> Backlink
+	--> Submit Link
+	--> Forum & Community
+	--> Blog Walking
+	--> Iklan
+	--> Shorten URL
+	--> Lainnya
+Tools Networking
+E	--> Exploit
+I	--> Information Gathering
+	--> IP Tools
+	--> IP Location & Geolocation
+R	--> Reverse IP & Domain
+S	--> Server Info
+	--> Speedtest, Proxy & Tunnel
+V	--> Vulnerability Scanner
+W	--> WHOIS
+	--> LINK to SEO
+Marketing Tools #
+	--> Directory Listing
+Google News
+	--> Algoritma Roundtable
+	--> Pedoman Google Adsense
+	--> Pedoman Webmaster
+	--> Dll tentang Help google
+Referensi
+	--> Catatan
+	--> Ebook
+	--> Bahasa Inggris
+	--> Link Penting
+	--> News, Info & Referensi
+	--> File Penting
+	--> Data Akun
+	--> GitHub
+	--> Video
+To Do List
+Aplikasi
+	--> Photoshop / editing foto
+	--> Converter
+	--> Video
+	--> dll
+RSS
+Blogger
+	--> Template
+	--> Tips & Trik
+Wordpress
+	--> Template
+	--> Plugin
+	--> Tips & Trik
+Tentang
+Update (link Github)
+
+
+--------------------------------------------------------------------------------------------------------
+LOGO									notif akun		
+		______________________________________________
+========|							
+		|						| - tool 1	
+		|						| - tool 2
+SIDEBAR	|		Deskripsi		| - tool 3
+		|						| - dll
+		|						| 
+		|						| 	
+========|______________________________________________					
+
+	FOOTER
+	
+--------------------------------------------------------------------------------------------------------
+
