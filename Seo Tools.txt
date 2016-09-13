@@ -50,7 +50,7 @@ Link to SEO
 	--> Social Media
 	--> Social Bookmarking
 	--> Article Directory
-	--> Backlink
+	--> Backlink --> no follow & do follow
 	--> Submit Link
 	--> Forum & Community
 	--> Blog Walking
