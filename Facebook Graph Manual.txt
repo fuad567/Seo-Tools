@@ -1,0 +1,61 @@
+Mencari Orang Berdasarkan Demografi
+•  Men who are older than ____ (age)
+•  Friends of my friends who are single ____ (gender) and live in ____ (city)
+•  ____ (gender) ____ (religious view) who are older than ____ (age) and younger than ____ (age) and live in ____ (city)
+
+Mencari Orang Berdasarkan Tempat Kerja
+•  people who work at ____
+•  friends of people who work at ____
+•  people who work with me at ____
+
+Mencari Orang Berdasarkan Fanspage Yang Disukai Mereka
+•  people who like ____ and ____
+•  people who like ____ and visited ____
+•  people who like ____ and visited ____
+
+Mencari Orang Asing Yang Ingin Kamu Ketahui
+•  people who are not my friends that work at ____
+•  people who are not my friends that like ____
+•  people who are not my friends that live in ____ (city)
+•  people who are not my friends that go to ____ (school)
+•  people who are not my friends that work at ____ and live in ____ (city)
+•  people who are not my friends that work at ____ and go to ____ (school)
+•  people who are not my friends that work at ____ and like ____
+•  people who are not my friends that work at ____ and visited ____
+•  people who are not my friends that work at ____ and visited ____ (city/state)
+
+Mencari Teman
+•  my friends that work at ____
+•  my friends that like ____
+•  my friends that live in ____ (city)
+•  my friends that go to ____ (school)
+•  my friends that work at ____ and live in ____ (city)
+•  my friends that work at ____ and go to ____ (school)
+•  my friends that work at ____ and like ____
+•  my friends that work at ____ and visited ____
+•  my friends that work at ____ and visited ____ (city/state)
+•  my friends who work at ____
+•  my friends who like ____
+•  my friends who live in ____ (city)
+•  my friends who go to ____ (school)
+•  my friends who work at ____ and live in ____ (city)
+•  my friends who work at ____ and go to ____ (school)
+•  my friends who work at ____ and like ____
+•  my friends who work at ____ and visited ____
+•  my friends who work at ____ and visited ____ (city/state)
+
+Mencari Orang Berdasarkan Dimana Mereka Bekerja
+•  people who work at ____ and like ____
+•  people who work at ____ and live in ____ (city/state)
+•  people who work at ____ and go to ____ (school)
+•  people who work at ____ who visited ____
+•  people who work at ____ who visited ____ (city/state)
+•  people who work at ____ and like ____ and ____
+•  people who work at ____ and live in ____ (city/state) and visited ____
+•  people who work at ____ and live in ____ (city/state) and go to ____ (school)
+•  people who work at ____ and go to ____ (school) and visited ____
+•  people who work at ____ and go to ____ (school) and like ____
+•  people who work at ____ who visited ____ and live in ____ (city/state)
+•  people who work at ____ who visited ____ and go to ____ (school)
+•  people who work at ____ who visited ____ and like ____
+•  people who work at ____ who visited ____ (city/state)
